@@ -18,5 +18,5 @@ Registrar de forma clara e objetiva o que venho aprendendo para facilitar revis�
 
 ## Autora
 
-Larissa Nakamura
+Larissa Nakamura <br>
 Estudante de desenvolvimento web iniciante, em transição de carreira e apaixonada por tecnologia.
